@@ -1,6 +1,8 @@
 # Data Analyst
 
 ### Education
+Aug 2023 - May 2025
+
 Texas A&M University - Corpus Christi - Master's Degree in Computer Science 
 
 ### Work Experience
