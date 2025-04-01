@@ -1,8 +1,7 @@
 # Data Analyst
 
 ### Education
-Texas A&M University - Corpus Christi 
-Master's Degree - Computer Science 
+Texas A&M University - Corpus Christi - Master's Degree in Computer Science 
 
 ### Work Experience
 Data Analyst @ DRDO - DRDL (India)
