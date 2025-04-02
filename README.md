@@ -11,7 +11,7 @@
 ### Internships
 * AI Research Intern @TAMU-CC                                                                         Mar 2025 - May 2025
 
-* Web Developer Intern @ DRDO - DRDL (India)                                                          Oct 2021 - Nov 2021
+* WEB Development using HTML and JAVA Script  @ DRDO - DRDL (India)                                   Oct 2021 - Nov 2021
 
 ### Certifications 
 * AWS Cloud Practitioner Essentials                       -  Feb 2025   
