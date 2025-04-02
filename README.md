@@ -18,8 +18,10 @@ Web Developer Intern @ DRDO - DRDL (India)                                      
 
 • Google Data Analytics Professional Certificate           - Feb 2025  
 
-• Introduction to Generative AI                            - Aug 2024   
+• Introduction to Generative AI                            - Aug 2024
 
+* Introduction to Cyber Security                           - Apr 2021
+  
 • AI For Everyone                                          - Jul 2020     
 
 • Programming For Everybody (Getting Started with Python)  - Jul 2020                                        
