@@ -14,12 +14,12 @@ AI Research Intern @TAMU-CC                                                     
 Web Developer Intern @ DRDO - DRDL (India)                                                          Oct 2021 - Nov 2021
 
 ### Certifications 
-• AWS Cloud Practitioner Essentials                        Feb 2025   
+• AWS Cloud Practitioner Essentials                       -  Feb 2025   
 
-• Google Data Analytics Professional Certificate           Feb 2025  
+• Google Data Analytics Professional Certificate           - Feb 2025  
 
-• Introduction to Generative AI                            Aug 2024   
+• Introduction to Generative AI                            - Aug 2024   
 
-• AI For Everyone                                          Jul 2020     
+• AI For Everyone                                          - Jul 2020     
 
-• Programming For Everybody (Getting Started with Python)  Jul 2020                                        
+• Programming For Everybody (Getting Started with Python)  - Jul 2020                                        
