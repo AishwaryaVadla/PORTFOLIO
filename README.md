@@ -98,4 +98,4 @@ If you're interested in data analytics, AI research, or just want to collaborate
 
 📧 vadlaaishwarya20@gmail.com  
 📍 Corpus Christi, TX  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/vadla-aishwarya/) | [GitHub](https://github.com/AishwaryaVadla)
