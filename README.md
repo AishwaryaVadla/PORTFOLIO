@@ -4,14 +4,12 @@
 * Texas A&M University - Corpus Christi - Master's Degree in Computer Science - Aug 2023 - May 2025
 
 ### Work Experience
-* Data Analyst @ DRDO - DRDL (India)                                                                - Jan 2023 - June 2023
-
 * Administrative Research Graduate Assistant - User and Research Services Department - TAMU-CC      -  Mar 2024 - May 2025
+* Data Analyst @ DRDO - DRDL (India)                                                                - Jan 2023 - June 2023
 
 ### Internships
 * AI Research Intern @TAMU-CC                                                                        - Mar 2025 - May 2025
-
-* WEB Development using HTML and JAVA Script  @ DRDO - DRDL (India)                                  - Oct 2021 - Nov 2021
+* WEB Development using HTML and JavaScript  @ DRDO - DRDL (India)                                  - Oct 2021 - Nov 2021
 
 ### Certifications 
 * AWS Cloud Practitioner Essentials                       -  Feb 2025   
