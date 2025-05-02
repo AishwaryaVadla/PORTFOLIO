@@ -6,7 +6,7 @@ Here's an updated version of your **Portfolio README.md** with a confident, slig
 # 🌟 Aishwarya Vadla – I Don’t Just Analyze Data, I Tell Its Story
 
 📍 Corpus Christi, TX | 📧 vadlaaishwarya20@gmail.com | 📱 +1 201-688-6890  
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/vadla-aishwarya/) • [GitHub](https://github.com/AishwaryaVadla](#)
 
 ---
 
