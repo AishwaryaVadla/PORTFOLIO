@@ -23,7 +23,7 @@ I bridge the gap between **technical depth** and **human connection** — turnin
 ## 🎓 Education
 
 **M.S. in Computer Science**
-*Texas A\&M University – Corpus Christi | 2023 – 2025*
+*Texas A&M University – Corpus Christi | 2023 – 2025*
 🎯 Artificial Intelligence · Computer Vision · Human-Computer Interaction
 
 **B.Tech in Computer Science**
@@ -54,6 +54,7 @@ I bridge the gap between **technical depth** and **human connection** — turnin
 * 🎓 AWS Cloud Practitioner Essentials – *Feb 2025*
 * 📊 Google Data Analytics Professional Certificate – *Feb 2025*
 * 🤖 Introduction to Generative AI – *Aug 2024*
+* 🛡️ Introduction to Cybersecurity – Cisco Networking Academy - *Apr 2021*
 
 ---
 
