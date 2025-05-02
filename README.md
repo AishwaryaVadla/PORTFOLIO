@@ -19,7 +19,8 @@ Here's an updated version of your **Portfolio README.md** with a confident, slig
 **Master of Science in Computer Science**  
 *Texas A&M University – Corpus Christi*  
 *Aug 2023 – May 2025*  
-**Focus:** Artificial Intelligence & Computer Vision
+**Focus:** Artificial Intelligence, Computer Vision, Human Computer Interaction
+
 
 **Bachelor of Technology in Computer Science**  
 *Sphoorthy Engineering College*  
