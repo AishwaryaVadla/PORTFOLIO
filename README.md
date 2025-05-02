@@ -100,7 +100,7 @@ Designed evolutionary agents with efficient pathfinding and percept tracking.
 ## 🏆 Awards & Highlights
 
 - 📘 **Published Author** – *“GIRL”*, available on Amazon  
-  Honored as a **Rising Star** and **Pro Author** by Notion Press
+  Honored as a **Rising Star** and **Pro Author** by Notion Press , 🔗[Amazon](https://a.co/d/6EX3qPH)
 
 - 🛠️ **Innovation Award Winner** – 2nd place for building a treadmill-powered energy storage project
 
