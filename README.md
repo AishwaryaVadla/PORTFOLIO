@@ -1,6 +1,6 @@
 # 🌟 Aishwarya Vadla – I Don’t Just Analyze Data, I Tell Its Story
 
-📍 Corpus Christi, TX | 📧 [vadlaaishwarya20@gmail.com](mailto:vadlaaishwarya20@gmail.com) | 📱 +1 201-688-6890
+📍 Corpus Christi, TX | 📧 [vadlaaishwarya20@gmail.com](mailto:vadlaaishwarya20@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/vadla-aishwarya/) • [GitHub](https://github.com/AishwaryaVadla)
 
 ---
